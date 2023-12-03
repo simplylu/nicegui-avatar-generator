@@ -1,0 +1,3 @@
+fastapi==0.104.1
+nicegui==1.4.3
+python_avatars==1.3.1
