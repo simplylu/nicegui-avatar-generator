@@ -2,6 +2,8 @@
 ![](screenshot.png)
 ## About
 I just played around with [nicegui](https://github.com/zauberzeug/nicegui/) and wanted to generate some avatars for another project. I utilized the [python_avatars](https://github.com/ibonn/python_avatars) library to generate images in SVG format that can then be stored somewhere, downloaded or just copied to the clipboard. 
+
+Thanks for featuring me @[WolfgangFahl](https://github.com/WolfgangFahl) in your Solution Bazaar at [ngdemo.bitplan.com](https://ngdemo.bitplan.com/solutions)
 ## Installation
 - Install required python libraries: `pip3 install -r requirements.txt`
 ## Usage
